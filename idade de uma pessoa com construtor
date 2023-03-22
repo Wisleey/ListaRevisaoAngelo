@@ -8,3 +8,19 @@ public class Main {
         System.out.println(DiasVividos);
     }
 }
+
+
+__________________________________________________________________________________________________________________________________________________________________________
+package Atividade01;
+
+public class Pessoa {
+    int ano;
+    int mes;
+    int dias;
+
+    public Pessoa(int ano, int mes, int dias) {
+        this.ano = ano;
+        this.mes = mes;
+        this.dias = dias;
+    }
+}
